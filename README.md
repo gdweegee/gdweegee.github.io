@@ -1,1 +1,2 @@
-# gdweegee.github.io
+# thesociablescot
+Website for G

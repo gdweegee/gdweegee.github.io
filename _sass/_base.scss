@@ -1,0 +1,184 @@
+@charset "UTF-8";
+/*!
+
+Pixyll
+
+A simple, beautiful theme for Jekyll that emphasizes content rather than
+aesthetic fluff.
+
+Built upon BASSCSS (https://basscss.com/).
+
+Crafted with <3 by John Otander (@4lpine) - ©2015-2021 John Otander
+MIT License https://opensource.org/licenses/MIT
+
+*/
+
+html, body {
+  height: auto;
+  min-height: 100%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+figure {
+  float: right;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+
+
+body {
+          box-sizing: border-box;
+     -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+
+ /* Container holding the image and the text */
+ .container {
+  position: relative;
+  margin: 11px;
+  padding: 3px;
+
+}
+
+.link-btn {
+  background-color: #0075bc;
+  color: white;
+  padding: 15px 35px;
+  text-decoration: none;
+  border-radius: 20px;
+}
+
+.fcc-btn:hover {
+  background-color: #223094;
+}
+
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-card {
+ background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 0;
+  padding-top: 66.64%; /* (img-height / img-width * container-width) */
+                /* (853 / 1280 * 100) */
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} 
+
+p.quote{
+  text-align: center;
+  padding-top: 10px;
+}
+
+
+/* new random shit */
+
+.button {
+  background-color: #0075bc; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+
+}
+
+
+/* gallery CSS */ 
+div.gallery {
+  border: 1px solid #ccc;
+  width: fit-content;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 20%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
