@@ -42,7 +42,7 @@ Are you new to Edinburgh and or Scotland and want a friendly face to get you acc
 
 
 ## FAQs
-__Can you accomodate larger groups?__ Yes, I am happy to discuss taking larger groups but the upper limit is ????. 
+__Can you accomodate larger groups?__ Yes, I am happy to discuss taking larger groups.
 
 __Does your fee include any entry to paid attractions?__ No, my tours do not include entry into any paid attractions; these include Edinburgh Castle and Holyrood Palace.
 
