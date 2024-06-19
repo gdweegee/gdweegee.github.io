@@ -23,8 +23,8 @@ I walk a lot around Edinburgh, I travel all across Scotland. I recommend the bar
 ### But don't take my word for it...
 
 <div style="border-style: solid; padding:10px" >
-  <i>“... His knowledge, enthusiasm and passion for the destinations we visited were infectious, making our trip unforgettable. His dedication to ensuring our comfort and enjoyment were evident in every detail and we are truly grateful.” </i>
-  <br> - Priya, April 2024
+  <i>“... His knowledge, enthusiasm and passion for the destinations we visited were infectious, making our trip unforgettable.” </i>
+  <br> - Alex, April 2024
 </div>
 <br>
 <div style="border-style: solid; padding:10px" >
