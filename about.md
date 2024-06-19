@@ -41,7 +41,7 @@ I walk a lot around Edinburgh, I travel all across Scotland. I recommend the bar
 
 I became a tour guide as it allows me to bring my passions in life into my job. I am a member of Historic Scotland and love touring museums, castles and historic sites. I explore both Edinburgh and all of Scotland looking at the picturesque views and stunning vistas. I can frequently be found in a bar or restaurant, enjoying Scottish food and drink, also embracing other cultures.
 
-One of my favourite times of the year is the month of Edinburgh when during The Edinburgh Festival I can see theatre, comedy, circus and listen to live music. I love sport and don’t expect me to be available if Scotland are playing rugby or if I am playing golf.
+One of my favourite times of the year is the month of August when during The Edinburgh Festival I can see theatre, comedy, circus and listen to live music. I love sport and don’t expect me to be available if Scotland are playing rugby or if I am playing golf.
 
 
 I read avidly, The Writers Museum with Robert Burns, Walter Scott and Robert Louis Stephenson is a great free place to visit in the city. I am no expert in Harry Potter – but I know a bit more than just finding Tom Riddell’s grave and am no expert in Outlander (but have tour guide friends who are) but know the filming sites.
