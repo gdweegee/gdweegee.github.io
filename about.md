@@ -6,6 +6,10 @@ tags: about
 ---
 
 
+<div style="width: fit-content;" class ="container">
+  <img style="width: 70%;"  class="img-center" src="/images/gabout.jpeg">
+</div>
+
 ### I love what I do
 
 It is great to meet people that wish to learn about Edinburgh and hear and see about our mesmerising history and undeniable charm. Born in Glasgow, I have traveled all across Scotland and am now a resident in Edinburgh where I can share my experiences.
@@ -15,9 +19,6 @@ I know my history, I like to bring it to life with stories of Scottish legends, 
 I walk a lot around Edinburgh, I travel all across Scotland. I recommend the bars and restaurants that I frequent myself, the sites I visit – both obvious and the hidden gems, I tell the tales that make me laugh or leave me thinking about and appreciating our past.
 
 
-<div style="width: fit-content;" class ="container">
-  <img style="width: 60%;"  class="img-center" src="images/g3.jpeg">
-</div>
 
 
 ### But don't take my word for it...
