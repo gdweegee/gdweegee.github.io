@@ -19,15 +19,9 @@ I know my history, I like to bring it to life with stories of Scottish legends, 
 I walk a lot around Edinburgh, I travel all across Scotland. I recommend the bars and restaurants that I frequent myself, the sites I visit – both obvious and the hidden gems, I tell the tales that make me laugh or leave me thinking about and appreciating our past.
 
 
-
-
 ### But don't take my word for it...
 
-<div style="border-style: solid; padding:10px" >
-  <i>“... His knowledge, enthusiasm and passion for the destinations we visited were infectious, making our trip unforgettable.” </i>
-  <br> - Alex, April 2024
-</div>
-<br>
+
 <div style="border-style: solid; padding:10px" >
   <i>" G took us around the old part of Edinburgh while explaining the history and showing us the sights. He went out of his way to make sure we were able to see what was most important to us. We enjoyed the experience despite the miserable weather." </i>
   <br> - Doug, October 2023
