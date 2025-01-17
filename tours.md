@@ -38,7 +38,7 @@ tags: tours
 ## Edinburgh Gin Tour
 - Flexible walking tour of city centre, gin bars and history of Scottish gin making with tastings. Old or New Town overview with locally chosen gin cocktail/G&T locations.
 
-<b>NOTE:</b> Entrance to paid attractions is not inlcuded in the fee. All tours can be customised. 
+<b>NOTE:</b> Entrance to paid attractions are not included in the fee. All tours can be customised. 
 
 
 
