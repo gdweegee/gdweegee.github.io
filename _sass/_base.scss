@@ -32,9 +32,7 @@ figure {
   padding: 0.5em;
 }
 
-img {
-  border-radius: 2px;
-}
+
 
 body {
           box-sizing: border-box;
@@ -47,7 +45,7 @@ body {
  .container {
   position: relative;
   margin: 11px;
-  padding: 3px;
+  padding: 2%;
 
 }
 
@@ -183,4 +181,18 @@ div.desc {
   content: "";
   display: table;
   clear: both;
+}
+
+.page-content{
+  background-color: whitesmoke;
+}
+
+.page-content-container{
+  background-color: rgba(0, 94, 182, 0.681);
+}
+
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
 }

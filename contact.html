@@ -1,12 +1,25 @@
 ---
 layout: page
-title: Book a Tour
+title: Bookings
 permalink: /contact/
 tags: contact
 ---
 
-<div class="py2">
-  <h3 style="text-align: center;"> Send me an email if you want to book a tour!</h3>
+<div class="py2 container">
+  
+  <h3> Pricing</h3>
+
+  Tours are priced per tour depending on the size of the party and the timings I have suggested are based on my experiences:
+
+  <br>
+  <ul class="no-bullets" style="margin-left: 20px">
+    <li><b>    1-6 people:</b> 2 hours £140, 3 hours £210 </li>
+    <li><b>    7+ people:</b> 2 hours £140, 3 hours £210 </li>
+  </ul>
+  <br>
+
+  
+
   {% if site.ajaxify_contact_form %}
     <form class="form-stacked">
       <label>
@@ -41,9 +54,8 @@ tags: contact
       <input type="submit" class="button button-blue button-big mobile-block" value="{{ site.text.contact.submit | default: "Say Hello" }}">
     </form>
   {% endif %}
+  </div>
 </div>
-
-{% include pricing.html %}
 
 {% if site.ajaxify_contact_form %}
   {% include ajaxify_content_form.html %}
