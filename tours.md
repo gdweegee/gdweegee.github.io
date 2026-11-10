@@ -24,8 +24,9 @@ Starting near Edinburgh Castle we will walk around The Old Town and down The Roy
 
 
 <div style="width: fit-content;" class ="container">
-  <img style="width: 100%;"  class="img-center" src="images/EdinburghSkyline.jpg">
+  
 </div>
+<img style="width: 70%;"  class="img-center" src="images/g_family.jpeg">
 
 <h3> Edinburgh Whisky, Food, Culture and Stories Walking Tour </h3>
 Starting in the city centre we shall quickly head to the nearest decent bar for a dram of Scotland’s finest, maybe with a beer or coffee. We can then move across the city trying 3-4 different drinks and snacks that will demonstrate the differing flavours of the country. On the way we can explore the hidden lanes and quirky bars that make up the character of the city learning of the legends, stories and history that makes Edinburgh what it is. Three hours with 4 drinks and food included, as always this is customisable, but trust the tour guide
@@ -44,7 +45,7 @@ Beginning in the Old Town, we shall explore the darker side of Edinburgh’s his
 Are you new to Edinburgh and or Scotland and want a friendly face to get you acclimatised? I will give you a warm Scottish welcome by meeting you in the heart of the city and showing you where to find the main streets, tourist attractions and must-see experiences. I shall give you a quick tour then we can sit down over a coffee or a Scottish drink and I’ll leave you with maps, suggestions and guides to the things that I do and do with friends and family when they come to visit. I’ll listen to what you want out of your trip and then talk about my experiences of the best bars, restaurants and sites in either Edinburgh or Scotland that are best suited to you and your own itinerary. This walk, talk and sit-down will last 2 hours
 
   <div style="width: fit-content;" class ="container">
-    <img style="width: 100%;"  class="img-center" src="images/mobility.jpeg">
+    <img style="width: 70%;"  class="img-center" src="images/g_tron.jpeg">
   </div>
 
 <h3> FAQs </h3>

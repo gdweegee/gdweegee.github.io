@@ -18,7 +18,7 @@ tags: about
 
 
   <div style="width: fit-content;" class ="container">
-    <img style="width: 100%;"  class="img-center" src="images/g_pride.jpeg">
+    <img style="width: 90%;"  class="img-center" src="images/forthbridge.jpeg">
   </div>
 
 
@@ -26,23 +26,25 @@ tags: about
 
   <br>
   <div style="border-style: solid; padding:10px" >
-  <i>"Our tour guide G did a fantastic job of leading our 3 hour walking tour by sharing history, telling stories and answering any questions. We had a great time and absolutely love Edinburgh! "." </i>
-  <br> - C M, January 10th, 2026
+  <i>"Bringing Edinburgh’s rich history to life with incredible story telling. I enjoyed G’s humour and knowledge about whisky and how it is connected to a part of Scotland’s culture. "</i>
+  <br> - J W, May 5th, 2026
   </div>
  
   <br>
   <div style="border-style: solid; padding:10px" >
-    <i>"He is a great storyteller and showed us lot of hidden gems and remarkable details in and on the Edinburgh streets. We had a nice lunch in The Last Drop. We concluded our tour, that covered all the main places of interest, with a good beer in a beautiful pub. He made our visit to Edinburgh one of the highlights on our cruise. ""</i>
-    <br> - F M, June 27th, 2025
+  <i>" G was a great host and guide and would use him for more tours and recommend him highly. Great communication before the experience, complete customization of the tour. " </i>
+  <br> - M H, September 18th, 2026
   </div>
+
   <br>
   <div style="border-style: solid; padding:10px" >
-    <i>“... His knowledge, enthusiasm and passion for the destinations we visited were infectious, making our trip unforgettable. His dedication to ensuring our comfort and enjoyment were evident in every detail and we are truly grateful.” </i>
-    <br> - Priya, April 2024
+    <i>“Great tour
+We were a group of approximately 20 people from all round the world. G was fantastic from the word go. He was very accommodating on what we wanted to see and happy to make short detours where and if necessary. He is exceptionally knowledgeable about Edinburgh and it was fascinating to get the bits of history that you wouldn't normally get from a more general tour. All in all I would highly recommend G to anyone wanting a fun guide.”</i>
+    <br> - Pepi, May 2026
   </div>
+
+
   <br>
-
-
   I became a tour guide as it allows me to bring my passions in life into my job. I am a member of Historic Scotland and love touring museums, castles and historic sites. I explore both Edinburgh and all of Scotland looking at the picturesque views and stunning vistas. I can frequently be found in a bar or restaurant, enjoying Scottish food and drink, also embracing other cultures.
 
   <br><br>
