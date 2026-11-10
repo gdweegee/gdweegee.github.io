@@ -12,10 +12,12 @@ tags: tours
 
 Tours are priced per tour depending on the size of the party and the timings I have suggested are based on my experiences:
 
-<ul class="no-bullets" style="margin-left: 20px">
-  <li><b>    1-6 people:</b> 2 hours £140, 3 hours £210 </li>
-  <li><b>    7+ people:</b> 2 hours £140, 3 hours £210 </li>
-</ul>
+<br>
+  <ul class="no-bullets" style="margin-left: 20px">
+    <li><b>    1-9 people:</b> 2 hours £160, 3 hours £240 half-day and full day also available </li>
+    <li><b>    10+ people:</b>  2 hours £180, 3 hours £270 half day and full day also available </li>
+  </ul>
+  <br>
 
 <h3> Edinburgh Highlights Walking Tour </h3>
 Starting near Edinburgh Castle we will walk around The Old Town and down The Royal Mile. You will hear about the history of the castle, experience the main street and the hidden “Wynds”, learn about famous figures from the past and laugh at the stories and legends associated with the city. We will look at the Old and New Towns, walk through the Grassmarket and Greyfriars graveyard, marvel at St Giles Cathedral and the city’s architecture, pass sites of importance and hear tales of culture. Tailored to you – we can stop for a local snack or drink and will end near Holyrood Palace after 3 hours.
